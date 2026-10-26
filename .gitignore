@@ -66,3 +66,30 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+# Compiled executables
+*.exe
+cachewise
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated benchmark outputs
+results.csv
+benchmark_results.png
+performance_ratio.png
+
+# Compiled executables
+*.exe
+cachewise
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated benchmark output
+results.csv
+benchmark_results.png
+performance_ratio.png
